@@ -2,7 +2,7 @@
 
 <form action="action_page.php" style="background-color: rgba(255, 255, 255, 0.8); padding: 40px; border-radius: 10px; width: 100%; max-width: 400px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <div class="container">
-    <h1 style="text-align: center; color: #333; font-family: Arial, sans-serif;">New User Register for DevOps Learning at spy D Technology HYDS</h1>
+    <h1 style="text-align: center; color: #333; font-family: Arial, sans-serif;">New User Register for DevOps Learning at spy D Technology HYD</h1>
     <p style="text-align: center; color: #666;">Please fill in this form to create an account.</p>
     <hr style="border: none; border-top: 1px solid #eee; margin-bottom: 20px;">
      
