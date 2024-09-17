@@ -1,4 +1,4 @@
-<div style="background-image: url('https://scontent.fhyd11-1.fna.fbcdn.net/v/t39.30808-6/350098491_1174999576496130_2745932461857895482_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=sWDoubFlTjoQ7kNvgEtZdL5&_nc_ht=scontent.fhyd11-1.fna&oh=00_AYD6K9BvM98bSCvi7t9VE8j1xJ-J-fBHxsMtREq6UJFOGQ&oe=66E60F43'); background-size: cover; background-repeat: no-repeat; background-position: center; min-height: 100vh; display: flex; justify-content: center; align-items: center;">
+<div style="background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRyA3T4x7oJ8Z1mYztNgGtVrdGiQOHDs3OnQ&s'); background-size: cover; background-repeat: no-repeat; background-position: center; min-height: 100vh; display: flex; justify-content: center; align-items: center;">
 
 <form action="action_page.php" style="background-color: rgba(255, 255, 255, 0.8); padding: 40px; border-radius: 10px; width: 100%; max-width: 400px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <div class="container">
